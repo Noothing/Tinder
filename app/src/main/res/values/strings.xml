@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">TinderBuyAboutScare</string>
+    <string name="sign_in"><u>Sign In</u></string>
+    <string name="sign_up">Sign up</string>
+    <string name="e_mail">E-mail</string>
+    <string name="password">Password</string>
+    <string name="repeat_password">Repeat password</string>
+    <string name="why_are_you_scare"><![CDATA[Why are you scare>]]></string>
+    <string name="name">Name</string>
+    <string name="about">About</string>
+    <string name="party_topics">Party Topics</string>
+    <string name="save">Save</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="trick_or_treat">Trick or Treat?</string>
+    <string name="rip">rip</string>
+    <string name="candy">Candy</string>
+</resources>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/user/AndroidStudioProjects/TinderBuyAboutScare/app/src/main/res/drawable-v24/circle_bg.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/TinderBuyAboutScare/app/src/main/res/drawable/chip.xml" value="0.1445" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/TinderBuyAboutScare/app/src/main/res/drawable/chip_bg.xml" value="0.1445" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/TinderBuyAboutScare/app/src/main/res/drawable/message_icon.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/TinderBuyAboutScare/app/src/main/res/drawable/nav_icon.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/TinderBuyAboutScare/app/src/main/res/drawable/pressed.xml" value="0.23" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/TinderBuyAboutScare/app/src/main/res/drawable/pressed_button.xml" value="0.18" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/TinderBuyAboutScare/app/src/main/res/drawable/unpressed.xml" value="0.1445" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/TinderBuyAboutScare/app/src/main/res/layout/activity_first_screen.xml" value="0.35280797101449274" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/TinderBuyAboutScare/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/TinderBuyAboutScare/app/src/main/res/layout/activity_registration.xml" value="0.28313253012048195" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/TinderBuyAboutScare/app/src/main/res/layout/activity_sign_in.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/TinderBuyAboutScare/app/src/main/res/layout/activity_sign_up.xml" value="0.15" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/TinderBuyAboutScare/app/src/main/res/layout/activity_tinder.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/TinderBuyAboutScare/app/src/main/res/layout/fragment_a.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/TinderBuyAboutScare/app/src/main/res/layout/fragment_blank.xml" value="0.25" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/TinderBuyAboutScare/app/src/main/res/layout/fragment_card.xml" value="0.18" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/TinderBuyAboutScare/app/src/main/res/layout/fragment_cards.xml" value="0.25" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/TinderBuyAboutScare/app/src/main/res/menu/bottom.xml" value="0.18802083333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
